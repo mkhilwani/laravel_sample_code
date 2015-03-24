@@ -1,0 +1,1097 @@
+.user_profile_img{
+    width:200px;
+    height:220px;
+    max-width: 100%;
+}
+
+.width_50_px{
+    width: 50px;
+}
+.width_55_px{ width: 55px; }
+.width_60_px{ width: 60px; }
+.width_61_px{ width: 61px; }
+.width_62_px{ width: 62px; }
+.width_65_px{ width: 65px; }
+.width_70_px{ width: 70px;margin-bottom: 5px; }
+
+.text-uppercase{
+    text-transform: uppercase;
+    border-radius: 5px 18px;
+}
+
+/* print form related css */
+.userwinepostlist{
+    /*height:450px;*/
+}
+.margin_5{
+    margin:5px;
+}
+
+
+.tasting-notes-drinkdates{
+    padding-left: 0px !important;
+    margin-bottom: 10px;
+}
+
+.float-right{
+    float:right !important;
+}
+.btn_assistant_cls {
+    background: none repeat scroll 0 0 #e1ddc8;
+    color: #4c4239;
+    font-weight: 400;
+}
+
+
+.underline{
+   text-decoration: underline;
+}
+.chart-lg-6 {
+    width: 45%;
+}
+
+.width_70 {
+    width: 70%;
+}
+
+.form-groups {
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.top-hed-smalls {
+    background: none repeat scroll 0 0 #fff;
+    color: #011e41;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 24px;
+    padding: 5px 1px;
+    width: 100%;
+}
+
+.list-style-none {
+    list-style-type: none !important;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.disply-none {
+    display: none;
+    word-wrap: break-word;
+
+}
+
+.width_td {
+    width: 45%;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+#modal-dialog {
+    width: 60%;
+}
+
+.selectedcolor {
+    background-color: pink;
+}
+
+/*print css end here*/
+/* cellar add wine page*/
+.margin-top {
+    margin-top: 5px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.a_clr {
+    color: #e0001b;
+}
+
+.a_clr:hover {
+    color: #e0001b;
+}
+
+.error {
+    color: red;
+}
+
+#modal-footer {
+    margin-top: 10px;
+    padding: 10px 20px 20px;
+}
+
+.btn-color {
+    background: none repeat scroll 0 0 #e0001b !important;
+    border-color: #e0001b;
+    color: #ffffff;
+}
+
+.glass_icon {
+    height: 40px;
+    background: url("../images/yellow-glass-icon.png") no-repeat scroll left 5px rgba(0, 0, 0, 0);
+    padding: 2px;
+}
+
+.left {
+    margin-left: 25px;
+}
+
+.clr {
+    background-color: #F1F1F1;
+
+}
+
+.clr h3 {
+    color: #011e41;
+    padding-left: 10px;
+}
+
+.profission_review_width {
+    width: 98% !important;
+    /* max-height: 330px;
+     overflow-y: scroll;*/
+}
+
+#modal_header {
+    background: none repeat scroll 0 0 #011e41;
+    color: #fff;
+    font-weight: bold;
+}
+
+#white_clr {
+    color: #fff;
+}
+
+.top-hed-small span {
+    font-size: 17px;
+}
+
+#img_border {
+    border: 1px solid grey;
+    padding: 5px 15px;
+}
+
+.padding_0 {
+    padding: 0;
+}
+
+.padding_5 {
+    padding: 5px;
+}
+
+.padding_10 {
+    padding: 10px;
+}
+
+.padding_top_30 {
+    padding-top: 35px;
+}
+
+.padding_top_5 {
+    padding-top: 5px;
+}
+
+.margin_left_per {
+    margin-left: 5%;
+}
+
+.margin_left_5 {
+    margin-left: 5px;
+}
+
+.margin_left_20 {
+    margin-left: 20px;
+}
+
+.margin_left_35 {
+    margin-left: 35px;
+}
+
+.padding_left_100 {
+    padding-left: 100px;
+}
+
+.myfilter {
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 6px 5px 2px 15px;
+}
+
+.padding_3 {
+    padding: 3px;
+}
+
+.margin_0 {
+    margin: 0px !important;
+}
+
+.left-align {
+    text-align: left !important;
+}
+
+.align_justify {
+    text-align: justify;
+}
+
+.right-align {
+    text-align: right;
+}
+
+/* tasting note custom css*/
+.search-button {
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 14px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.109;
+    margin-bottom: 0;
+    padding: 4px 14px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.left_top {
+    position: relative;
+    top: -20px;
+}
+
+.dropdown_css {
+    border: 1px solid #ccc;
+}
+
+.border {
+    border: 1px solid #aeaca8;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.padding_top {
+    padding-top: 10px;
+}
+
+.add_tast_button {
+    margin-left: 12px;
+}
+
+dl {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 33%;
+}
+
+.filter-by ul li {
+    border: none !important;
+}
+
+.filter-by ul li:last-child {
+    border: none !important;
+}
+
+.filter-by ul li a {
+    color: #011e41;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration: none;
+    width: 120px;
+}
+
+#ajax_country {
+    width: 320px !important;
+}
+
+.list_none {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.list_none li:hover {
+    background: #3276B1;
+    color: #fff;
+}
+
+.country_heading_margin {
+    margin-left: 26px;
+}
+
+.dropdown_source {
+    background: none repeat scroll 0 0 #011e41;
+    color: #fff;
+    height: 100px;
+    overflow-y: scroll;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+}
+
+/* winepost add form page css*/
+/*for tab background color */
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #011e41;
+    color: #fff;
+}
+
+/* bottom space for page */
+.tabbable.custom-tabs.shadow > .tab-content {
+    margin-bottom: 20px;
+}
+
+.btn-primary-red {
+    background-color: #e0001b;
+
+    color: #fff;
+}
+
+.margin_bot {
+    margin-bottom: 20px;
+}
+
+.btn-color-blue {
+    background: none repeat scroll 0 0 #011E41 !important;
+    border-color: #011E41;
+    color: #ffffff;
+}
+
+/*tasting notes lists css*/
+
+.dataTables_filter {
+    float: right;
+}
+
+.paging_simple_numbers {
+    float: right;
+}
+
+.bs-example-tabs {
+    float: left;
+    margin: 10px;
+    width: 100%;
+}
+
+.dataTables_length {
+    float: left;
+}
+
+.tasting_note_score {
+   background-color: #000;
+    color: #fff;
+    font-size: 15px;
+     position: relative;
+     top:1px;
+    text-align: center;
+}
+
+#dataTables-example2_info, #dataTables-example3_info {
+    margin-left: 17px;
+}
+
+#dataTables-example2_paginate, #dataTables-example3_paginate {
+    margin-right: 15px;
+}
+
+.r-code span {
+     color: #fff;
+    display: block;
+    float: none;
+    font-size: 14px;
+    line-height: 32px;
+    padding: 4px 0 2px;
+}
+
+.r-code b {
+    background: none repeat scroll 0 0 #ccc;
+    color: #000;
+    display: block;
+    float: none;
+    font-size: 16px;
+    height: 100%;
+    line-height: 16px;
+    padding: 1px 0 3px;
+}
+
+#search_save_data {
+    /* width:480px !important;*/
+}
+
+#saved_search_data {
+    width: 350px !important;
+}
+
+.label_name {
+    color: #999999;
+    width: 10%;
+}
+
+.span_name {
+    margin-left: 5px;
+}
+
+/* community page css start */
+.more_btn_width {
+    background: none repeat scroll 0 0 #e0001b;
+    color: #fff;
+    /*display: block;*/
+    font-size: 12px;
+    margin: 10px 0 0;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/* community page end */
+/* profile view page css */
+.label_css {
+    color: #011e41;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+div:first-letter {
+    text-transform: uppercase;
+}
+
+.private_data {
+    background: url("../images/private.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    float: left;
+    margin-bottom: 20px;
+    min-height: 205px;
+    position: relative;
+
+}
+
+.bg-white-clr {
+    background-color: #FFFFFF;
+}
+
+.listing_level {
+    font-size: 12px;
+    margin: 10px 0 0;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.modal_width_400 {
+    width: 400px;
+}
+
+/* winepost details page */
+/* jssor slider arrow navigator skin 11 css */
+/*
+.jssora11l              (normal)
+.jssora11r              (normal)
+.jssora11l:hover        (normal mouseover)
+.jssora11r:hover        (normal mouseover)
+.jssora11ldn            (mousedown)
+.jssora11rdn            (mousedown)
+*/
+.jssora11l, .jssora11r, .jssora11ldn, .jssora11rdn {
+    position: absolute;
+    cursor: pointer;
+    display: block;
+    background: url(../images/a11.png) no-repeat;
+    overflow: hidden;
+}
+
+.jssora11l {
+    background-position: -11px -41px;
+}
+
+.jssora11r {
+    background-position: -71px -41px;
+}
+
+.jssora11l:hover {
+    background-position: -131px -41px;
+}
+
+.jssora11r:hover {
+    background-position: -191px -41px;
+}
+
+.jssora11ldn {
+    background-position: -251px -41px;
+}
+
+.jssora11rdn {
+    background-position: -311px -41px;
+}
+
+/* jssor slider thumbnail navigator skin 07 css */
+/*
+.jssort07 .p            (normal)
+.jssort07 .p:hover      (normal mouseover)
+.jssort07 .pav          (active)
+.jssort07 .pav:hover    (active mouseover)
+.jssort07 .pdn          (mousedown)
+*/
+.jssort07 .i {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 99px;
+    height: 66px;
+    filter: alpha(opacity=80);
+    opacity: .8;
+}
+
+.jssort07 .p:hover .i, .jssort07 .pav .i {
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+
+.jssort07 .o {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 97px;
+    height: 64px;
+    border: 1px solid #000;
+    transition: border-color .6s;
+    -moz-transition: border-color .6s;
+    -webkit-transition: border-color .6s;
+    -o-transition: border-color .6s;
+}
+
+* html .jssort07 .o {
+    /* ie quirks mode adjust */
+    width /**/: 99px;
+    height /**/: 66px;
+}
+
+.jssort07 .pav .o, .jssort07 .p:hover .o {
+    border-color: #fff;
+}
+
+.jssort07 .pav:hover .o {
+    border-color: #0099FF;
+}
+
+.jssort07 .p:hover .o {
+    transition: none;
+    -moz-transition: none;
+    -webkit-transition: none;
+    -o-transition: none;
+}
+
+/*details page css*/
+.h-line {
+    border-bottom: 1px solid #c3c2bf;
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.ctnotes-left-static-section {
+    float: left;
+    height: 100%;
+    padding: 10px 0 0 0px;
+    width: 60px;
+}
+
+.left-static-section {
+    float: left;
+    height: 100%;
+    padding: 10px 0 0 10px;
+    width: 250px;
+}
+
+c-t-notes-tmb:link, .c-t-notes-tmb:visited {
+    color: #000;
+}
+
+.c-t-notes-tmb, .c-t-notes-tmb-single {
+    background: url("//a248.e.akamai.net/f/248/37838/30d/www.vinfolio.com/images/c_t_notes_icon03.gif") no-repeat scroll left top #f4eee3;
+    display: block;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    height: 70px;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    width: 50px;
+}
+
+.profile-tmb {
+    background-color: #f4eee3;
+    height: 85px;
+    padding: 0;
+    width: 100px;
+}
+
+.profile-tmb span {
+    font-weight: bold;
+    padding: 0 !important;
+}
+
+.c-t-notes-tmb span, .c-t-notes-tmb-single span {
+    color: #000;
+    display: block;
+    padding: 24px 2px 0;
+}
+
+div.followLink {
+    padding-bottom: 10px;
+}
+
+a.link-arrow:link, a.link-arrow:visited, .reportAProblem:link, .reportAProblem:visited {
+    background: url("//a248.e.akamai.net/f/248/37838/30d/www.vinfolio.com/images/arrow01.gif") no-repeat scroll left center rgba(0, 0, 0, 0);
+    color: #556e99;
+    font-size: 11px;
+    margin: 3px 0 0;
+    padding: 0 6px 0 14px;
+    text-decoration: none;
+}
+
+.author-info {
+    float: left;
+    height: 100%;
+    margin: 0 0 10px 10px;
+    width: 140px;
+}
+
+.ctnotes-author-info {
+    float: left;
+    height: 100%;
+    margin: 10px 0 10px 60px !important;
+    width: 170px;
+}
+
+.author-info span {
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding: 0 0 6px;
+    width: 80px;
+}
+
+.author-info em {
+    display: block;
+    float: left;
+    font-style: normal;
+    padding: 0 0 6px;
+    width: 60px;
+}
+
+.author-info em a:link, .author-info em a:visited {
+    color: #556e99;
+    text-decoration: none;
+}
+
+a.normal-link, a.normal-link:visited, a.bold-link, a.bold-link:visited, a.bold-link:link {
+    color: #556e99 !important;
+    text-decoration: none;
+}
+
+.clear-l {
+    clear: left;
+}
+
+.author-description {
+    padding: 10px 10px 10px 230px;
+    width: auto;
+}
+
+.content .left-main p {
+    margin: 0;
+    padding: 10px;
+}
+
+.author-description p {
+    font-size: 12px;
+    line-height: 150% !important;
+    margin: 0 0 10px !important;
+    padding: 0 !important;
+}
+
+.bottom-info {
+    height: 100%;
+    padding: 0 0 10px 220px;
+}
+
+.right-info {
+    color: #999;
+    height: 100%;
+    padding: 0 10px 0 0;
+    text-align: right;
+    width: 100%;
+}
+
+.useful:link, .useful:visited {
+    color: #556e99;
+    font-weight: bold;
+    padding: 0 5px;
+    text-decoration: none;
+}
+
+a.link-arrow:link, a.link-arrow:visited, .reportAProblem:link, .reportAProblem:visited {
+    background: url("//a248.e.akamai.net/f/248/37838/30d/www.vinfolio.com/images/arrow01.gif") no-repeat scroll left center rgba(0, 0, 0, 0);
+    color: #556e99;
+    font-size: 11px;
+    margin: 3px 0 0;
+    padding: 0 6px 0 14px;
+    text-decoration: none;
+}
+
+/* comment related css*/
+
+.comment-container {
+    width: 80%;
+}
+
+.comment-label {
+    color: #999;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 0 0 10px;
+}
+
+.comment-data {
+    display: block;
+    margin: 10px 0 0;
+    padding: 0;
+    position: relative;
+    width: 90%;
+}
+
+.comment-dscr {
+    display: block;
+    margin: 0 10px;
+    padding: 0 0 5px;
+    width: auto;
+}
+
+table.customer-comment {
+    border: 1px solid #bcbbba;
+}
+
+table.comment-activity {
+    margin: 0;
+    padding: 0;
+}
+
+table.comment-activity .nickname {
+    border: 0 none;
+    font-size: 12px;
+    padding: 0;
+    text-align: left;
+}
+
+table.comment-activity .nickname a {
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+
+a.normal-link, a.normal-link:visited, a.bold-link, a.bold-link:visited, a.bold-link:link {
+    color: #556e99 !important;
+    text-decoration: none;
+}
+
+table.comment-activity .activity {
+    border: 0 none;
+    font-size: 12px;
+    padding: 0;
+    text-align: left;
+}
+
+table.comment-activity .time {
+    border: 0 none;
+    padding: 0 0 0 5px;
+    text-align: right;
+}
+
+table.customer-comment td.img {
+    border: 0 none;
+    padding: 0;
+    vertical-align: top;
+    width: 49px;
+}
+
+element.style {
+    border: medium none;
+}
+
+.wine-thmb {
+    border: 1px solid #ccc;
+    float: left;
+    margin: 0;
+    padding: 0;
+    position: static;
+}
+
+.wine-thmb {
+    border: 1px solid #ccc;
+    float: left !important;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 53px;
+}
+
+.wine-thmb img {
+    border: 3px solid #fff;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.wine-thmb img {
+    border: 3px solid #fff !important;
+    float: left !important;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: 0 none;
+}
+
+table.customer-comment td.data {
+    border: 0 none;
+    font-size: 12px;
+    padding: 10px;
+    text-align: left;
+}
+
+.link-comment-trash {
+    background: url("//a248.e.akamai.net/f/248/37838/30d/www.vinfolio.com/images/mplace_basket.gif") no-repeat scroll center top transparent;
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+    display: block;
+    height: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.spacer5 {
+    height: 5px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer10 {
+    height: 10px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer15 {
+    height: 15px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer20 {
+    height: 20px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer25 {
+    height: 25px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer30 {
+    height: 30px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer35 {
+    height: 35px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer40 {
+    height: 40px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer45 {
+    height: 45px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer50 {
+    height: 50px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer100 {
+    height: 100px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.spacer200 {
+    height: 200px;
+    width: 100%;
+    font-size: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+.more-btn-mycellar {
+    width: 90px;
+}
+
+.fontsize_12 {
+    font-size: 12px;
+}
+
+.fontsize_13 {
+    font-size: 13px;
+}
+
+.fontsize_14 {
+    font-size: 14px;
+}
+
+.fontsize_15 {
+    font-size: 15px;
+}
+
+.fontsize_22 {
+    font-size: 22px;
+}
+
+.width_auto {
+    width: auto !important;
+}
+
+.btn-danger {
+    background-color: #E0001B;
+}
+
+.padding-bottom-20 {
+    padding-bottom: 20px !important;
+}
+
+#loading {
+    background: none repeat scroll 0 0 #333;
+    border: 1px solid #999;
+    border-radius: 10px;
+    color: #fff;
+    display: none;
+    font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    left: 45%;
+    line-height: 37px;
+    opacity: 0.8;
+    padding: 25px;
+    position: fixed;
+    top: 45%;
+    z-index: 9999;
+}
+
+#loading {
+    z-index: 9999;
+}
+
+.color-heading {
+    background-color: grey !important;
+    color: #FFFFFF !important;
+}
+
+/* mycellar winepost details tab css*/
+.col-lg-12.full-border {
+    border: 1px solid grey;
+    padding: 0;
+}
+
+/* end here */
+
+@media (min-width: 767px) {
+    .medias .row > .col-md-2 {
+        float: left;
+    }
+}
+
+/*
+ * {
+            resize: none;
+            border: none;
+            outline: none;
+            text-decoration: none;
+            padding: 0px;
+            margin: 0px;
+            list-style-type: none;
+        }*/
+/* check with manish sir changes*/
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: 1px solid gray;
+}
